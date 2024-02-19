@@ -4,3 +4,4 @@ This is unwanted line
 Docker is lightweight
 Kubernetes is orchestration tool
 Docker works well for microservices
+Ansible is better than other configuration management tools
