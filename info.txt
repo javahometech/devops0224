@@ -6,3 +6,4 @@ Kubernetes is orchestration tool
 Docker works well for microservices
 Ansible is better than other configuration management tools
 Working on send email
+Working on sending marketing emails
